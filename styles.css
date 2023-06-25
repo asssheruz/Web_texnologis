@@ -1,0 +1,28 @@
+body {
+	padding: 20px;
+}
+
+#container {
+	border: 2px solid grey;
+	padding: 20px;
+}
+
+h1 {
+	border: 1px solid red;
+	text-align: center;
+}
+
+img {
+	width: 300px;
+	border: 2px solid black;
+}
+
+.animal-info {
+	font-style: italic;
+	border: 2px solid grey;
+	padding: 1px;
+}
+
+span {
+	font-weight: bold;
+}
