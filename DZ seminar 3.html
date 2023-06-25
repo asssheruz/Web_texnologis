@@ -15,10 +15,16 @@
 		//  или alert или confirm, а создайте свою функцию, пример: "function 
 		//  Вашеимяфункциитут()"‼️
 		
-		a = prompt("Мой любимый фильм?", "Название фильма");
-		alert(a);
-		function sherzod()
-		alert("Попробуйте ещё раз");
+		function sherzod() {
+			let film = prompt("Ваш любимый фильм?", "Название фильма")
+			if (film === "Побег") {
+				alert("Верно")
+			} else {
+				alert("Попробуйте ещё раз")
+				sherzod();
+			}
+		}
+		sherzod();
 
 
 	</script>
