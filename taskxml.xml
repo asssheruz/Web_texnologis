@@ -1,0 +1,37 @@
+<CATALOG>
+  <BOOK>
+      <TITLE>Камил видит руками</TITLE>
+      <AUTHOR>Томаш Малковски</AUTHOR>
+      <PAGES>146</PAGES>
+      <YEAR>2019</YEAR>
+      <PRICE>863 руб.</PRICE>
+  </BOOK>
+  <BOOK>
+      <TITLE>Вероятности и неприятности</TITLE>
+      <AUTHOR>Сергей Самойленко</AUTHOR>
+      <PAGES>134</PAGES>
+      <YEAR>2022</YEAR>
+      <PRICE>1055 руб.</PRICE>
+  </BOOK>
+  <BOOK>
+      <TITLE>Когда жизнь сбивает с ног</TITLE>
+      <AUTHOR>Расс Хэррис</AUTHOR>
+      <PAGES>80</PAGES>
+      <YEAR>2021</YEAR>
+      <PRICE>945 руб.</PRICE>
+  </BOOK>
+  <BOOK>
+      <TITLE>Цветы в темноте</TITLE>
+      <AUTHOR>Cестра Данг Нгием</AUTHOR>
+      <PAGES>124</PAGES>
+      <YEAR>2020</YEAR>
+      <PRICE>1027 руб.</PRICE>
+  </BOOK>
+  <BOOK>
+      <TITLE>Стратегии перемен</TITLE>
+      <AUTHOR>Джон Коттер</AUTHOR>
+      <PAGES>102</PAGES>
+      <YEAR>2022</YEAR>
+      <PRICE>1418 руб.</PRICE>
+  </BOOK>
+</CATALOG>
